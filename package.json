@@ -1,0 +1,35 @@
+{
+  "name": "@darkside-developers/translate",
+  "version": "1.0.0",
+  "description": "Google Translater Unofficial scraper",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "google",
+    "translate",
+    "DarkWinzo",
+    "google",
+    "language"
+  ],
+  "author": "DarkWinzo",
+  "license": "MIT",
+  "dependencies": {
+    "configstore": "^5.0.1",
+    "got": "^9.6.0"
+  },
+  "homepage": "https://github.com/DarkSide-Developers/translate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkSide-Developers/translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkSide-Developers/translate/issues"
+  }
+}
