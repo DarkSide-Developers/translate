@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=180px height=180px src="https://i.ibb.co/mT0KR26/pngimg-com-cricket-PNG104.png" alt="@darkside-developers/translate"></a>
+ <img width=180px height=180px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/512px-Google_Translate_logo.svg.png?20210606111727" alt="@darkside-developers/translate"></a>
 </p>
 
 [![npm](https://img.shields.io/npm/v/@darkside-developers/translate)](https://www.npmjs.com/package/@darkside-developers/translate)
